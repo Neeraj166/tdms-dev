@@ -8,12 +8,6 @@ phases:
       - echo Installing dependencies..
 
 
-
-
-
-
-
-
   build:
     commands:
       - echo Build started on `date`
